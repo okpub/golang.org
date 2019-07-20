@@ -1,2 +1,2 @@
-# golang-x
-基础包
+# google基础的GO包
+PS: 下载后需要放到和github同目录
