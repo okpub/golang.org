@@ -1,7 +1,8 @@
 # google基础的GO包
 go get github.com/okpub/golang.org
-`
+`vim
 github/
+
 golang.org/
 `
 
