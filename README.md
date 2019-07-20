@@ -3,22 +3,18 @@ go get github.com/okpub/golang.org
 
 (PS: 下载后需要放到和github同目录)
 
-## redis
+## [redis](https://github.com/garyburd/redigo)
 go get github.com/garyburd/redigo
  
-## mysql 
+## [mysql](https://github.com/go-sql-driver/mysql) 
 go get github.com/go-sql-driver/mysql
 
 ## [golang](https://github.com/golang)
-### glog
 go get github.com/golang/glog
 
-### protobuf
 go get github.com/golang/protobuf
 
 ## [google](https://github.com/google)
-### uuid
 go get github.com/google/uuid
 
-### btree
 go get github.com/google/btree
