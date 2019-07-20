@@ -9,14 +9,14 @@ go get github.com/garyburd/redigo
 ## mysql 
 go get github.com/go-sql-driver/mysql
 
-## 【golang】
+## [golang](github.com/golang)
 ### glog
 go get github.com/golang/glog
 
 ### protobuf
 go get github.com/golang/protobuf
 
-## 【google】
+## [google](github.com/google)
 ### uuid
 go get github.com/google/uuid
 
