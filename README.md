@@ -8,3 +8,10 @@ go get github.com/garyburd/redigo
  
 ## mysql 
 go get github.com/go-sql-driver/mysql
+
+## glog
+go get github.com/golang/glog
+
+## protobuf
+
+## uuid
