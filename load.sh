@@ -1,12 +1,11 @@
-##go get错误，先拷贝 然后移到github目录
-git clone https://github.com/garyburd/redigo
+go get -u github.com/garyburd/redigo
 
-git clone https://github.com/go-sql-driver/mysql
+go get -u github.com/go-sql-driver/mysql
 
-git clone https://github.com/golang/glog
+go get -u github.com/golang/glog
 
-git clone https://github.com/golang/protobuf
+go get -u github.com/golang/protobuf
 
-git clone https://github.com/google/uuid
+go get -u github.com/google/uuid
 
-git clone https://github.com/google/btree
+go get -u github.com/google/btree
