@@ -3,7 +3,7 @@ go get github.com/okpub/golang.org
 
 (PS: 下载后需要放到和github同级目录)
 ```vim
-github/
+github.com/
 golang.org/
 ```
 
