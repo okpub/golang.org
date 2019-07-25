@@ -24,3 +24,6 @@ go get github.com/golang/protobuf
 go get github.com/google/uuid
 
 go get github.com/google/btree
+
+## [kafka](https://github.com/Shopify/sarama)
+go get github.com/Shopify/sarama
