@@ -11,6 +11,9 @@ golang.org/
 
 ## [redis](https://github.com/garyburd/redigo)
 go get github.com/garyburd/redigo
+
+## [redis cluster](https://github.com/gitstliu/go-redis-cluster)
+go get github.com/gitstliu/go-redis-cluster
  
 ## [mysql](https://github.com/go-sql-driver/mysql) 
 go get github.com/go-sql-driver/mysql
