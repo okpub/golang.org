@@ -11,6 +11,7 @@ golang.org/
 
 ## [redis](https://github.com/garyburd/redigo)
 go get github.com/garyburd/redigo
+go get github.com/gitstliu/go-redis-cluster
 
 ## [redis cluster](https://github.com/gitstliu/go-redis-cluster)
 go get github.com/gitstliu/go-redis-cluster
